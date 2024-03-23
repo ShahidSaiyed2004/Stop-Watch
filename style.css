@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background: linear-gradient(to bottom, #d3d3d3, #a9a9a9);
+    background: linear-gradient(to bottom, #eb1111, #676363);
     margin: 0;
     padding: 0;
     font-family: "Roboto", sans-serif; 
@@ -14,7 +14,7 @@ body {
     align-items: center;
 }
 .container {
-    background-color: #364f6b;
+    background-color: #8a0998;
     width: 40%;
     min-width: 500px;
     position: absolute;
